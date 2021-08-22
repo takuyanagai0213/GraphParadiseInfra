@@ -1,4 +1,4 @@
-# GraphParadise (GraphService)
+# GraphParadise (Infra)
 Goで構築するマイクロサービスアプリケーションのインフラをTerraformでコード化(AWS)
 
 ## 概要

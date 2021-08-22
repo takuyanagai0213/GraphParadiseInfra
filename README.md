@@ -1,4 +1,5 @@
-# graph_paradise
+# GraphParadise (GraphService)
+Goで構築するマイクロサービスアプリケーションのグラフサービス(グラフを表示するための機能に関するサービス)
 
 ## 概要
 GraphParadiseはグラフの表示ができるアプリケーションです。
